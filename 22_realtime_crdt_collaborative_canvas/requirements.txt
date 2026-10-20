@@ -1,0 +1,1 @@
+fastapi>=0.115.0\nuvicorn>=0.30.0\nwebsockets>=13.0\n

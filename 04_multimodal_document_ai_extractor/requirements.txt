@@ -1,0 +1,1 @@
+fastapi>=0.115.0\nuvicorn>=0.30.0\npydantic>=2.8.0\nPyMuPDF>=1.24.0\nPillow>=10.4.0\n
